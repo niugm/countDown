@@ -1,6 +1,4 @@
-# aurora
-
-> b.gaoshoubang.cn
+# countDown
 
 ## Build Setup
 
